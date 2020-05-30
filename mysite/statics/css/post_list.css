@@ -1,0 +1,17 @@
+p{
+    font-size : 49px;
+    clolor : blue;
+}
+
+.box{
+    width:400px;
+    height:auto;
+    border: 1px solid lightgray;
+    display: inline-block;
+}
+img{
+    width:380px;
+    height:380px;
+    margin:auto;
+    display:block;
+}
